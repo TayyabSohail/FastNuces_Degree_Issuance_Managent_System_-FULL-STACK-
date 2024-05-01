@@ -8,7 +8,8 @@
 ### FINAL PROJECT REPORT
 [Project_Report.pdf](https://github.com/TayyabSohail/FastNuces_Degree_Issuance_Managent_System_-FULL-STACK-/files/15179860/Project_Report.pdf)
 
-EXCEL SHEET PROJECT CHARTS
+
+### EXCEL SHEET PROJECT CHARTS
 
 [REPORT_Charts.xlsx](https://github.com/TayyabSohail/FastNuces_Degree_Issuance_Managent_System_-FULL-STACK-/files/15179862/REPORT_Charts.xlsx)
 
