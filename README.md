@@ -21,5 +21,7 @@ prompt delivery of degrees and transcripts to students while minimizing administ
 enhancing overall student satisfaction.
 
 
-#
+
+# SOLUTION
+Introducing the One Stop Services platform at FAST Islamabad: a full-stack project built with C#, ASPX.net, HTML5, CSS, and JavaScript, utilizing MySQL for database management. Following SCRUM principles, it streamlines degree issuance processes, empowering students with user-friendly interfaces for form submissions, complaint lodging, and real-time request tracking. Departments have specific roles for efficient review, managed by the One Stop Admin. The Director Dashboard offers a comprehensive view of daily requests, processing times, and statuses. This project exemplifies Software Engineering principles, enhancing administrative efficiency and communication while ensuring a seamless experience for students.
 
