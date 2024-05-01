@@ -27,7 +27,7 @@ Introducing the One Stop Services platform at FAST Islamabad: a full-stack proje
 
 ___________________________________________________________________________________
 
-# USER INTEFACE OF PROJECT
+# USER INTEFACES OF PROJECT
 
 
 
